@@ -1,0 +1,19 @@
+.header {
+    background: linear-gradient(to right, #af8e4c, #45a049);
+    margin: auto;
+    text-align: center;
+}
+.submit {
+    background-color: #c08612;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.logo {
+    display: none;
+    margin: 20px auto;
+    width: 100px;
+    height: auto;
+}
